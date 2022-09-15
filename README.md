@@ -1,6 +1,8 @@
 # coin_tracker
-<img src='assets/demo/demo_1.png' width='200'/>
-<img src='assets/demo/demo_2.png' width='200'/>
+<div float='left'>
+  <img src='assets/demo/demo_1.png' width='200'/>
+  <img src='assets/demo/demo_2.png' width='200'/>
+</div>
 
 ## Getting Started
 
