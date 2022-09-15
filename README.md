@@ -1,6 +1,5 @@
 # coin_tracker
-
-A new Flutter project.
+<img src='assets/demo/demo_1.png'/>
 
 ## Getting Started
 
