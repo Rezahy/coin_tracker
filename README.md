@@ -1,5 +1,6 @@
 # coin_tracker
-<img src='assets/demo/demo_1.png' width='200' style='border-radius="20px"'/>
+<img src='assets/demo/demo_1.png' width='200'/>
+<img src='assets/demo/demo_2.png' width='200'/>
 
 ## Getting Started
 
